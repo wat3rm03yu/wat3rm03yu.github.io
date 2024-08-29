@@ -3,13 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+# Site
+title: wat3r 的摆烂小屋
 subtitle: ''
-description: ''
+description: '记录自己的摆烂日常与学习记录'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: wat3r
+language: 
+  - zh-CN
+  - zh-TW
+timezone: 'Asia/Shanghai' # 这个默认是主机时区，不用管
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
